@@ -40,7 +40,7 @@ Here we will cover two codes, one is just simple program that crawl all links, a
       <li> Run the application </li>
       <p>You can run the application by cmd or teminal using the command bellow</p>
       <p>[optional int] for optional limit for sites to be crawl </p>
-      <code> simple_web_crawler_with_hashed_urls.py [optional int] </code>
+      <code> python simple_web_crawler_with_hashed_urls.py [optional int] </code>
     </ol>
   </li>
 </ul> 
